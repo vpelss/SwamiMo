@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//SoftQuad//DTD HoTMetaL PRO 4.0::19971010::extensions to HTML 4.0//EN"
+ "hmpro4.dtd">
+
+<HTML>
+  
+  <HEAD>
+    <TITLE>Ask Swami Mo</TITLE>
+ <META NAME="DESCRIPTION" CONTENT="Swami Moe will answer all your questions. A fun, modified version of the magic 8 ball.">
+    <META NAME="KEYWORDS" CONTENT="fortune, yes, no, question, answer, fun, prediction, swami, Moe, magic, 8, ball, eight, javasrcript">
+<SCRIPT LANGUAGE="JavaScript" SRC="./swami.js"></SCRIPT>
+  </HEAD>
+  
+  <FRAMESET ROWS="100%,0%">
+  <FRAME SRC="swami.shtml" NAME="Swami" NORESIZE="NORESIZE">
+  <FRAME NAME="other" MARGINWIDTH="3" MARGINHEIGHT="3" SCROLLING="YES" 
+  NORESIZE="NORESIZE"></FRAMESET>
+</HTML>
